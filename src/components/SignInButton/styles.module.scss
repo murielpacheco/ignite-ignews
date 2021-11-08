@@ -24,8 +24,14 @@
   &:hover {
     filter: brightness(0.8);
   }
+
 }
 
 .closeIcon{
   margin-left: 1rem;
+  color: #737380;
+
+  &:hover {
+    color: var(--yellow-500);
+  }
 }
